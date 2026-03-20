@@ -13,6 +13,10 @@ To find the true target markets, this project segments 45 global digital economi
 3. **Clustering:** Deployed K-Means clustering (k=4) on median `Log_Free_Rank` and `Log_Gross_Rank` to map the global digital landscape.
 4. **Macroeconomic Validation:** Compared GDP per capita and the English Proficiency Index (EPI) across the four generated clusters, mathematically verifying whether traditional economic indicators exhibited statistically significant differences between the behaviorally defined quadrants.
 
+## Global Market Landscape
+
+![Global Market Clusters](LLA-Clusters.png)
+
 ## Key Insights: The 4 Global Market Clusters
 
 * **Cluster 4: The Golden Quadrant (e.g., Poland, Mexico, Spain)** * *Profile:* Massive organic download volume combined with elite monetization. 
